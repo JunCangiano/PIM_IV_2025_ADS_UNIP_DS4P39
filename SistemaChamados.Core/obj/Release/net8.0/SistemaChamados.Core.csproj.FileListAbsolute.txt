@@ -1,0 +1,12 @@
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\bin\Release\net8.0\SistemaChamados.Core.deps.json
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\bin\Release\net8.0\SistemaChamados.Core.dll
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\bin\Release\net8.0\SistemaChamados.Core.pdb
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\SistemaChamados.Core.csproj.AssemblyReference.cache
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\SistemaChamados.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\SistemaChamados.Core.AssemblyInfoInputs.cache
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\SistemaChamados.Core.AssemblyInfo.cs
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\SistemaChamados.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\SistemaChamados.Core.dll
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\refint\SistemaChamados.Core.dll
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\SistemaChamados.Core.pdb
+C:\Users\Jun\Documents\PIM SEM 4\SistemaChamados.Core\obj\Release\net8.0\ref\SistemaChamados.Core.dll
