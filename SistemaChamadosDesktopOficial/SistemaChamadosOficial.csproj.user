@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Login\LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\RedefinirSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\ResetPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\TermosUso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainApplication\Calendar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\FAQAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\FAQUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\HomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\KpiBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainApplication\MessageBubble.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\NewTicket.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\TicketDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainApplication\Tickets.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainApplication\UserSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
